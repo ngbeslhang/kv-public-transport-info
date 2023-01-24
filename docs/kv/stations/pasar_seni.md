@@ -19,6 +19,7 @@
 ## Connections
 
 - Kuala Lumpur station
+    - Exit from Gate ? (???); fully covered pedestrian bridge
     - Serves the following lines:
         - Port Klang Komuter
         - Seremban Komuter
@@ -27,3 +28,6 @@
         - KL Sentral - Butterworth ETS (Platinum)
         - Padang Besar - Gemas ETS (Gold)
         - Butterworth - Gemas ETS (Gold)
+- Bus station
+    - Serves the following lines:
+        - TBD
