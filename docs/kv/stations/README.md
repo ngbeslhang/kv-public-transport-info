@@ -4,5 +4,5 @@
 
 "Connections" section includes all line services available within walking distance of the station that requires touching out of the gates instead.
 
-Walking distance is defined as anything within 10 minute walk radius of the station.
+Walking distance is defined as anything within 10 minute walk (1km?) radius of the station.
 - For line transfer specifically, it will be from gate to gate (seating area for bus stations)
