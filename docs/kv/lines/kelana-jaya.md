@@ -30,7 +30,7 @@ TIPS: Use the browser's search function to find your origin and destination stat
        == KLCC ==
     3 min 🠉 🠟 2 min
    == KAMPUNG BARU ==
-    2 min 🠉 🠟 
+    2 min 🠉 🠟 Continue from 2m48s in DJI_0157.mp4
    == DANG WANGI ==
     2 min 🠉 🠟 
    == MASJID JAMEK ==
