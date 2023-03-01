@@ -6,7 +6,9 @@ All recorded durations start/stop roughly when the train doors are closing (spec
 
 This chart emulates Singapore's SMRT duration chart shown in each of the stations, which means each station's page will also have their own duration chart for each directions. This section intends to serve both as a reference to how to construct the chart as well as the duration from each terminal stations (from which you can subtract the time taken to your destination station from the time taken to your origin station).
 
-For each direction, the actual time taken to reach each station is added, before rounded up or down depending on whether the time / 60 is above or below .5 decimal places. The logic here is that any underestimations will be balanced out by the overestimations, which should lead to more consistent time.
+For each direction, the actual time taken to reach each station is added, before rounded up or down depending on whether the time / 60 is above or below .5 decimal places.
+
+The logic here is that any underestimations will be balanced out by the overestimations.
 
 The time measured for each stations will be available soon in a separate spreadsheet.
 
@@ -53,46 +55,48 @@ TAMAN PARAMOUNT | 36 min (2m04s/124s)
                      🠟
      UNIVERSITI | 43 min (3m49s/229s)
                      🠟
-       KERINCHI | (2m13s/133s)
+       KERINCHI | 46 min (2m13s/133s)
                      🠟
- ABDULLAH HUKUM | (2m05s/125s)
+ ABDULLAH HUKUM | 48 min (2m05s/125s)
                      🠟
-        BANGSAR | (2m07s/127s)
+        BANGSAR | 50 min (2m07s/127s)
                      🠟
-     KL SENTRAL | (2m24s/144s)
+     KL SENTRAL | 52 min (2m24s/144s)
                      🠟
-     PASAR SENI | (2m52s/172s)
+     PASAR SENI | 55 min (2m52s/172s)
                      🠟
-   MASJID JAMEK | (2m29s/)
+   MASJID JAMEK | 58 min (2m29s/149s)
                      🠟
-     DANG WANGI | (1m54s/)
+     DANG WANGI | 59 min (1m54s/114s)
                      🠟
-   KAMPUNG BARU | (1m39s/)
+   KAMPUNG BARU | 61 min (1m39s/99s)
                      🠟
-           KLCC | (2m48s/)
+           KLCC | 64 min (2m48s/168s)
                      🠟
-    AMPANG PARK | (1m36s/)
+    AMPANG PARK | 66 min (1m36s/96s)
                      🠟
-          DAMAI | (1m52s/)
+          DAMAI | 67 min (1m52s/112s)
                      🠟
-  DATO' KERAMAT | (1m56s/)
+  DATO' KERAMAT | 69 min (1m56s/116s)
                      🠟
-        JELATEK | (1m40s/)
+        JELATEK | 71 min (1m40s/100s)
                      🠟
-    SETIAWANGSA | (1m42s/)
+    SETIAWANGSA | 73 min (1m42s/102s)
                      🠟
-     SRI RAMPAI | (3m49s/)
+     SRI RAMPAI | 77 min (3m49s/229s)
                      🠟
-    WANGSA MAJU | (2m32s/)
+    WANGSA MAJU | 79 min (2m32s/152s)
                      🠟
-   TAMAN MELATI | (3m/)
+   TAMAN MELATI | 82 min (3m/180s)
                      🠟
-         GOMBAK | (3m30s/)
+         GOMBAK | 86 min (3m30s/210s)
 ```
 
 ### Towards Putra Heights (Southbound)
 
 ```
+!!! IGNORE, TO BE FULLY REWRITTEN FROM SCRATCH !!!
+
       == GOMBAK ==
     4 min 🠉 🠟 4 min
    == TAMAN MELATI ==
