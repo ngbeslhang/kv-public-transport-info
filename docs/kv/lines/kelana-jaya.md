@@ -14,6 +14,8 @@ The time measured for each stations will be available soon in a separate spreads
 
 TIPS: Use the browser's search function to find your origin and destination stations and calculate from there.
 
+NOTE: If the chart for one of the directions is incomplete, use the other chart for estimation instead.
+
 ### Towards Gombak (Northbound)
 
 ```
