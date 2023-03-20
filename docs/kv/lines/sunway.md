@@ -1,4 +1,4 @@
-# Sunway BRT
+# Sunway BRT Line (SBL)
 
 ## Duration
 
