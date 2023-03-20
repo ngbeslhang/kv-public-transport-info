@@ -14,10 +14,10 @@ The time measured for each stations will be available soon in a separate spreads
 
 TIPS: Use the browser's search function to find your origin and destination stations and calculate from there.
 
-### Towards Kwasa Damansara
+### Towards Kwasa Damansara (Northbound)
 
 ```
-       PUTRAJAYA SENTRAL |  0 min ()
+       PUTRAJAYA SENTRAL |  0 min
                               🠟
    CYBERJAYA CITY CENTRE |    min ()
                               🠟
@@ -90,6 +90,78 @@ TUN RAZAK EXCHANGE (TRX) |    min ()
          KWASA DAMANSARA |    min ()
 ```
 
-### Towards Putrajata (Sentral)
+### Towards Putrajaya/Putrajaya Sentral (Southbound)
 
-TBD
+```
+         KWASA DAMANSARA |  0 min
+                              🠟
+         KAMPUNG SELAMAT |    min ()
+                              🠟
+            SUNGAI BULOH |    min ()
+                              🠟
+         DAMANSARA DAMAI |    min ()
+                              🠟
+     SRI DAMANSARA BARAT |    min ()
+                              🠟
+   SRI DAMANSARA SENTRAL |    min ()
+                              🠟
+     SRI DAMANSARA TIMUR |    min ()
+                              🠟
+             METRO PRIMA |    min ()
+                              🠟
+             KEPONG BARU |    min ()
+                              🠟
+                 JINJANG |    min ()
+                              🠟
+              SRI DELIMA |    min ()
+                              🠟
+            KAMPUNG BATU |    min ()
+                              🠟
+               KENTONMEN |    min ()
+                              🠟
+              JALAN IPOH |    min ()
+                              🠟
+            SENTUL BARAT |    min ()
+                              🠟
+              TITIWANGSA |    min ()
+                              🠟
+   HOSPITAL KUALA LUMPUR |    min ()
+                              🠟
+                RAJA UDA |    min ()
+                              🠟
+             AMPANG PARK |    min ()
+                              🠟
+          PERSIARAN KLCC |    min ()
+                              🠟
+                  CONLAY |    min ()
+                              🠟
+TUN RAZAK EXCHANGE (TRX) |    min ()
+                              🠟
+            CHAN SOW LIN |    min ()
+                              🠟
+                  KUCHAI |    min ()
+                              🠟
+         TAMAN NAGA EMAS |    min ()
+                              🠟
+             SUNGAI BESI |    min ()
+                              🠟
+      SERDANG RAYA UTARA |    min ()
+                              🠟
+   SERDANG RAYA SELANTAN |    min ()
+                              🠟
+            SERDANG JAYA |    min ()
+                              🠟
+                     UPM |    min ()
+                              🠟
+            TAMAN EQUINE |    min ()
+                              🠟
+            PUTRA PERMAI |    min ()
+                              🠟
+               16 SIERRA |    min ()
+                              🠟
+         CYBERJAYA UTARA |    min ()
+                              🠟
+   CYBERJAYA CITY CENTRE |    min ()
+                              🠟
+       PUTRAJAYA SENTRAL |    min ()
+```
