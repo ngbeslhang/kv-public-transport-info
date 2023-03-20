@@ -95,79 +95,77 @@ TAMAN PARAMOUNT | 36 min (2m04s/124s)
 ### Towards Putra Heights (Southbound)
 
 ```
-!!! IGNORE, TO BE FULLY REWRITTEN FROM SCRATCH !!!
-
-      == GOMBAK ==
-    4 min 🠉 🠟 4 min
-   == TAMAN MELATI ==
-    3 min 🠉 🠟 3 min
-   == WANGSA MAJU ==
-    3 min 🠉 🠟 2 min
-   == SRI RAMPAI ==
-    4 min 🠉 🠟 4 min
-   == SETIAWANGSA ==
-    2 min 🠉 🠟 3 min
-     == JELATEK ==
-    2 min 🠉 🠟 3 min
-  == DATO' KERAMAT ==
-    2 min 🠉 🠟 3 min
-       == DAMAI ==
-    2 min 🠉 🠟 3 min
-    == AMPANG PARK ==
-    2 min 🠉 🠟 2 min
-       == KLCC ==
-    3 min 🠉 🠟 2 min
-   == KAMPUNG BARU ==
-    2 min 🠉 🠟 Continue from 2m48s in DJI_0157.mp4
-   == DANG WANGI ==
-    2 min 🠉 🠟 
-   == MASJID JAMEK ==
-    3 min 🠉 🠟 
-    == PASAR SENI ==
-    3 min 🠉 🠟 
-    == KL SENTRAL ==
-    3 min 🠉 🠟 
-      == BANGSAR ==
-    3 min 🠉 🠟 
- == ABDULLAH HUKUM ==
-    3 min 🠉 🠟 
-     == KERINCHI ==
-    3 min 🠉 🠟 
-    == UNIVERSITI ==
-    4 min 🠉 🠟 
-    == TAMAN JAYA ==
-    2 min 🠉 🠟 
-    == ASIA JAYA ==
-    3 min 🠉 🠟 
- == TAMAN PARAMOUNT ==
-    3 min 🠉 🠟 
-  == TAMAN BAHAGIA ==
-    2 min 🠉 🠟 
-   == KELANA JAYA ==
-    3 min 🠉 🠟 
-   == LEMBAH SUBANG ==
-    2 min 🠉 🠟 
-  == ARA DAMANSARA ==
-    3 min 🠉 🠟 
-     == GLENMARIE ==
-    3 min 🠉 🠟 
-   == SUBANG JAYA ==
-    3 min 🠉 🠟 
-       == SS 15 ==
-    2 min 🠉 🠟 
-       == SS 18 ==
-    4 min 🠉 🠟 
-       == USJ 7 ==
-    2 min 🠉 🠟 
-      == TAIPAN ==
-    3 min 🠉 🠟 
-      == WAWASAN ==
-    2 min 🠉 🠟 
-      == USJ 21 ==
-    4 min 🠉 🠟 
-     == ALAM MEGAH ==
-    3 min 🠉 🠟 
-     == SUBANG ALAM ==
-    3 min 🠉 🠟 
-     == PUTRA HEIGHTS ==
+         GOMBAK |  0 min ()
+                     🠟
+   TAMAN MELATI |    min ()
+                     🠟
+    WANGSA MAJU |    min ()
+                     🠟
+     SRI RAMPAI |    min ()
+                     🠟
+    SETIAWANGSA |    min ()
+                     🠟
+        JELATEK |    min ()
+                     🠟
+  DATO' KERAMAT |    min ()
+                     🠟
+          DAMAI |    min ()
+                     🠟
+    AMPANG PARK |    min ()
+                     🠟
+           KLCC |    min ()
+                     🠟
+   KAMPUNG BARU |    min ()
+                     🠟
+     DANG WANGI |    min ()
+                     🠟
+   MASJID JAMEK |    min ()
+                     🠟
+     PASAR SENI |    min ()
+                     🠟
+     KL SENTRAL |    min ()
+                     🠟
+        BANGSAR |    min ()
+                     🠟
+ ABDULLAH HUKUM |    min ()
+                     🠟
+       KERINCHI |    min ()
+                     🠟
+     UNIVERSITI |    min ()
+                     🠟
+     TAMAN JAYA |    min ()
+                     🠟
+      ASIA JAYA |    min ()
+                     🠟
+TAMAN PARAMOUNT |    min ()
+                     🠟
+  TAMAN BAHAGIA |    min ()
+                     🠟
+    KELANA JAYA |    min ()
+                     🠟
+  LEMBAH SUBANG |    min ()
+                     🠟
+  ARA DAMANSARA |    min ()
+                     🠟
+      GLENMARIE |    min ()
+                     🠟
+    SUBANG JAYA |    min ()
+                     🠟
+          SS 15 |    min ()
+                     🠟
+          SS 18 |    min ()
+                     🠟
+          USJ 7 |    min ()
+                     🠟
+         TAIPAN |    min ()
+                     🠟
+        WAWASAN |    min ()
+                     🠟
+         USJ 21 |    min ()
+                     🠟
+     ALAM MEGAH |    min ()
+                     🠟
+    SUBANG ALAM |    min ()
+                     🠟
+  PUTRA HEIGHTS |    min
 ```
