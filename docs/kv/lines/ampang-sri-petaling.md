@@ -1,4 +1,4 @@
-# Ampang (APL) & Sri Petaling (SPL, formerly PHL) lines
+# Ampang (AGL) & Sri Petaling (SPL, formerly PHL) lines
 
 The CBD (Central Business District) section is defined as the section between Sentul Timur station and Chan Sow Lin station.
 
